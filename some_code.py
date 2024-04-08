@@ -24,5 +24,5 @@ def myFunc(stuff):
 
 if __name__ == '__main__':
 
-    good_stuff = myFunc('bad stuff')
+    good_stuff = myFunc('good stuff')
     
